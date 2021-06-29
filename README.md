@@ -3,6 +3,7 @@
 - 💞️  estou aprendendo javascript
 contato : lucasamerico695@gmail.com
 pretendo virar desenvolvedor fullstack estudo todos os dias para isso
+
 linkedin:https://www.linkedin.com/in/lucas-am%C3%A9rico-da-silva-69b53a1b7/
 
 <!---
